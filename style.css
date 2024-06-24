@@ -1,0 +1,40 @@
+.container{
+    container: 10}
+.nav-link disabled{
+    text-decoration: none;}
+.Untitle{
+    background-color: #926ff6;}
+.Agency{
+    color: #FFE074;}
+.hero{
+    font-size:63px;
+    font-weight: 800;
+    color: white;}
+.town{
+    color: white;
+    font-weight: 300;
+    font-size: 17px;}
+  .users {
+    border-radius: 10px;
+    box-shadow:rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;}
+.user_header {
+    font-weight: 700;
+    font-size: 25px;
+    color: #0B132A;
+    margin: 0;}
+.user_text {
+    font-size: 20px;
+    margin:0;}
+.projekt{
+    font-size: 17px;
+    font-weight: 500;}
+.title{
+    text-decoration: none;
+    color: #828282;}
+.color{
+    background-color: #f6eeff;
+}
+.coll{
+    background-color: #333333;
+    text-align: center;
+    justify-content: center;}
